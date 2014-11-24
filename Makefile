@@ -1,5 +1,5 @@
 NAME = cikl/mongodb
-VERSION = 0.0.3
+VERSION = 0.0.4-pre
 
 .PHONY: all build tag_latest
 
