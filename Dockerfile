@@ -4,7 +4,7 @@ MAINTAINER Mike Ryan <falter@gmail.com>
 RUN \
   export DEBIAN_FRONTEND=noninteractive && \
   apt-get update && \
-  apt-get install -y --no-install-recommends mongodb-server && \
+  apt-get install -y --no-install-recommends mongodb-server=1:2.4.9-1ubuntu2 && \
   apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Define mount points.

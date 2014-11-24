@@ -3,6 +3,7 @@ Next
 
 * Add your message and a link to your github account right below this line.
 * Add .dockerignore
+* Hardcode mongodb-server to 2.4.9-1ubuntu2
 
 0.0.2
 ====
