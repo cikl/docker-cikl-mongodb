@@ -1,5 +1,5 @@
 # docker-cikl-mongodb
-This image provides an instance of elasticsearch, ready for use with Cikl.
+This image provides an instance of mongodb, ready for use with Cikl.
 
 # release process
 
